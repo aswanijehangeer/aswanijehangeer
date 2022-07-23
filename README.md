@@ -22,4 +22,4 @@
 
 ### Contact Me
 
-![Linktree](https://img.shields.io/badge/linktr.ee/aswanijeh?style=for-the-badge&logo=linktree&logoColor=white
+https://img.shields.io/badge/Linktree-39E09B.svg?style=for-the-badge&logo=Linktree&logoColor=white
