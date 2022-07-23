@@ -22,4 +22,4 @@
 
 ### Contact Me
 
-![LinkedIn](https://https://www.linkedin.com/in/aswanijehangeer/)
+![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white
