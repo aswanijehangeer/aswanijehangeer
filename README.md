@@ -2,13 +2,14 @@
 
 ### About Me 👩‍💼
 
-- 👀💻 I’m Jehangeer, a learned R/Shiny Programmer, working indepently as freelancer at Upwork. 
-- 🎓 I graduated in August 2022 with a bachelor's in Statistics with a CGPA of 2.9. 
-- 🌱 I’m currently learning advanced R Shiny, Cloud Computing, and Machine Learning.
-- 🤔 I’m looking for help with finding job in R and R Shiny industry. 
-- 💬 Ask me about statistics, R, Shiny, and Chess.
-- 😄 Pronouns: He/Him.
-- ⚡ Fun fact: Chess Lover.
+* 👀💻 I’m Jehangeer, a learned R/Shiny Programmer, working indepently as freelancer at Upwork. 
+* 🌍  I'm based in Islamabad Pakistan
+* 🎓 I graduated in August 2022 with a bachelor's in Statistics with a CGPA of 2.9. 
+* 🌱 I’m currently learning advanced R Shiny, Cloud Computing, and Machine Learning.
+* 🤔 I’m looking for help with finding job in R and R Shiny industry. 
+* 💬 Ask me about statistics, R, Shiny, and Chess.
+* 😄 Pronouns: He/Him.
+* ⚡ Fun fact: Chess Lover.
 
 ### Tech Stack
 
@@ -21,6 +22,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -30,5 +32,5 @@
 
 ### Contact Me
 
-![Linktree](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)
+
 
