@@ -9,7 +9,6 @@
 - 💬 Ask me about statistics, R, Shiny, and Chess.
 - 😄 Pronouns: He/Him.
 - ⚡ Fun fact: Chess Lover.
--->
 
 ### Tech Stack
 
