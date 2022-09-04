@@ -2,7 +2,7 @@
 
 ### About Me 👩‍💼
 
-* 👀💻 I’m Jehangeer, a learned R/Shiny Developer, working indepently as freelancer at Upwork. 
+* 👀💻 I’m Jehangeer, a learned R/Shiny Developer, working independently as freelancer at Upwork. 
 * 🌍  I'm based in Islamabad Pakistan
 * 🎓 I graduated in August 2022 with a bachelor's in Statistics with a CGPA of 2.9. 
 * 🌱 I’m currently learning advanced R Shiny, Cloud Computing, and Machine Learning.
