@@ -2,7 +2,6 @@
 
 A 22-year-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
 
-### About Me 👩‍💼
 
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer on the Upwork platform. 
 * 🎓 I received my bachelor's degree in statistics in January 2023, with a CGPA of 2.9.
