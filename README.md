@@ -4,7 +4,7 @@ A 22-year-old statistics graduate has a keen interest in pursuing a career in th
 
 
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer on the Upwork platform. 
-* 🎓 I received my bachelor's degree in statistics in January 2023, with a CGPA of 2.9.
+* 🎓 I received my bachelor's degree in statistics in January 2023, with a CGPA of 2.8.
 * 🌱 I'm now brushing up on my knowledge of cloud computing, machine learning, and web development.
 * 🤔 I need assistance obtaining work in the R and R Shiny sector.
 * ⚡ Fun fact: An avid chess player.
