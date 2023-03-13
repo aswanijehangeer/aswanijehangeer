@@ -1,6 +1,6 @@
 ### Hello! This is Jehangeer :) 👋
 
-A 22-year-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
+A 22-years-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
 
 
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer on the Upwork platform. 
@@ -17,7 +17,7 @@ A 22-year-old statistics graduate has a keen interest in pursuing a career in th
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
+
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
