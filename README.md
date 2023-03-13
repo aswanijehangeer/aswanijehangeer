@@ -6,12 +6,12 @@ A 22-year-old statistics graduate has a keen interest in pursuing a career in th
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer on the Upwork platform. 
 * 🎓 I received my bachelor's degree in statistics in January 2023, with a CGPA of 2.8.
 * 🌱 I'm now brushing up on my knowledge of cloud computing, machine learning, and web development.
-* 🤔 I need assistance obtaining work in the R and R Shiny sector.
+* 🤔 I need assistance obtaining work in the R and R Shiny.
 * ⚡ Fun fact: An avid chess player.
 
 ### Language and Tools:
 
-<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />]
+<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
@@ -26,5 +26,12 @@ A 22-year-old statistics graduate has a keen interest in pursuing a career in th
 
 ### Connect with me: 
 
-<p align="left"> <a href="http://www.instagram.com/_aswanijehangeer" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/aswanijehangeer/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_aswanijahangir" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="http://www.instagram.com/_aswanijehangeer" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a> <a href="https://www.linkedin.com/in/aswanijehangeer/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+  <a href="https://www.twitter.com/_aswanijahangir" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+</p>
 
