@@ -34,3 +34,9 @@ A 22-years-old statistics graduate has a keen interest in pursuing a career in t
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
+
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=aswanijehangeer&hide=["issues"]&show_icons=true)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=aswanijehangeer.aswanijehangeer)
+
