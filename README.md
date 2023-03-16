@@ -4,9 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
 [![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
 
-
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C746%20hrs%2031%20mins-blue)
-![Profile Views](http://img.shields.io/badge/Profile%20Views-216-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
 
 A 22-years-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
 
