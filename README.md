@@ -1,5 +1,6 @@
 ### Hello! This is Jehangeer :) 👋
 
+[![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
 [![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
 
 A 22-years-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
