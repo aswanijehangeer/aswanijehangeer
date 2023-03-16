@@ -1,12 +1,8 @@
-### Hello! This is Jehangeer :) 👋 
+<h1 align="center">Hello! 👋 This is Jehangeer :)</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
-[![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
-[![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
-
+<p align="center"> 
 A 22-years-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
+ </p>
 
 
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer on the Upwork platform. 
@@ -14,6 +10,21 @@ A 22-years-old statistics graduate has a keen interest in pursuing a career in t
 * 🌱 I'm now brushing up on my knowledge of cloud computing, machine learning, and web development.
 * 🤔 I need assistance obtaining work in the R, Shiny, Data Analytics. 
 * ⚡ Fun fact: An avid chess player ♟️.
+
+<div align="center">
+
+  [![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
+  [![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
+  [![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
+  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aswanijehangeer)
+
+ </div>
+  
+
+
+
 
 ### Operating Systems: 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
