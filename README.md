@@ -27,7 +27,7 @@ A 22-years-old statistics graduate has a keen interest in pursuing a career in t
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aswanijehangeer&layout=compact">
 
 ![Jehangeer's github stats](https://github-readme-stats.vercel.app/api?username=aswanijehangeer&hide=["issues"]&show_icons=true)
 
