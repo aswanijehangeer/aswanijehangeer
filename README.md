@@ -49,3 +49,8 @@ A 22-years-old statistics graduate has a keen interest in pursuing a career in t
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=aswanijehangeer&layout=compact">
 
 ![Jehangeer's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=github)
+
+<div align="center"> 
+ 
+ ### Show some ❤️ by starring some of the repositories! 
+</div>
