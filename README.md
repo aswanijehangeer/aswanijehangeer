@@ -15,6 +15,14 @@ A 22-years-old statistics graduate has a keen interest in pursuing a career in t
 * 🤔 I need assistance obtaining work in the R, Shiny, Data Analytics. 
 * ⚡ Fun fact: An avid chess player ♟️.
 
+### Operating Systems: 
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+
+![RStudio](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)
+[![VS Code](https://img.shields.io/badge/IDE-VSCode-%23007ACC?style=flat-square&logo=Visual-studio-code)](https://code.visualstudio.com/)
+
+
 ### Language and Tools:
 
 <img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
