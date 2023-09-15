@@ -1,7 +1,7 @@
 <h1 align="center">Hello! 👋 This is Jehangeer :)</h1>
 
 <p align="center"> 
-An ambitious 22-year-old statistics graduate is considering a career in the fields of data analytics, business analytics, web development, and machine learning.
+An ambitious 23-year-old statistics graduate is considering a career in the fields of data analytics, business analytics, web development, and machine learning.
  </p>
 
 
