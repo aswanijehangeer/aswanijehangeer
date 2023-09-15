@@ -1,14 +1,14 @@
 <h1 align="center">Hello! 👋 This is Jehangeer :)</h1>
 
 <p align="center"> 
-A 22-years-old statistics graduate has a keen interest in pursuing a career in the field of data analytics, business analytics, and machine learning. In particular, I am interested in utilizing my knowledge of statistics to analyze large datasets and extract insights that can inform business decisions.
+An ambitious 22-year-old statistics graduate is considering a career in the fields of data analytics, business analytics, web development, and machine learning.
  </p>
 
 
-* 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer on the Upwork platform. 
+* 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer (RShiny, Data Science, Web development) on the Upwork platform. 
 * 🎓 I received my bachelor's degree in statistics in January 2023.
-* 🌱 I'm now brushing up on my knowledge of cloud computing, machine learning, and web development.
-* 🤔 I need assistance obtaining work in the R, Shiny, Data Analytics. 
+* 🌱 I'm now brushing up on my cloud computing, machine learning, and web development knowledge.
+* 🤔 I need assistance obtaining work in R, Shiny, and Data Analytics. 
 * ⚡ Fun fact: An avid chess player ♟️.
 
 <div align="center">
