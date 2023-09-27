@@ -7,7 +7,7 @@ An ambitious 23-year-old statistics graduate is considering a career in the fiel
 
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer (RShiny, Data Science, Web development) on the Upwork platform. 
 * 🎓 I received my bachelor's degree in statistics in January 2023.
-* 🌱 I'm now brushing up on my cloud computing, machine learning, and web development knowledge.
+* 🌱 I'm now brushing up on my machine learning and web development knowledge.
 * 🤔 I need assistance obtaining work in R, Shiny, and Data Analytics. 
 * ⚡ Fun fact: An avid chess player ♟️.
 
