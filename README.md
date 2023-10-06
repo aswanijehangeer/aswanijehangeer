@@ -1,8 +1,8 @@
 <h1 align="center">Hello! 👋 This is Jehangeer :)</h1>
 
-<p align="center"> 
-An ambitious 23-year-old statistics graduate is considering a career in the fields of data analytics, business analytics, web development, and machine learning.
- </p>
+<h2 align="center"> 
+RShiny Developer and Junior Data Scientist
+ </h2>
 
 
 * 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer (RShiny, Data Science, Web development) on the Upwork platform. 
