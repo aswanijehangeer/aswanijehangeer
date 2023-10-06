@@ -4,12 +4,11 @@
 RShiny Developer and Junior Data Scientist
  </h2>
 
-
-* 💻 As a seasoned R/Shiny developer, I offer my services as a professional freelancer (RShiny, Data Science, Web development) on the Upwork platform. 
-* 🎓 I received my bachelor's degree in statistics in January 2023.
-* 🌱 I'm now brushing up on my machine learning and web development knowledge.
-* 🤔 I need assistance obtaining work in R, Shiny, and Data Analytics. 
-* ⚡ Fun fact: An avid chess player ♟️.
+* Actively seeking a full-time role in RShiny, Data Science, and Web Development.
+* I offer my services as a professional freelancer (RShiny, Data Science, Web development) on the Upwork platform.
+* Recently obtained a bachelor's degree in statistics (January 2023).
+* Currently refreshing and enhancing skills in R Shiny, machine learning, and web development.
+* ♟Avid chess player ♟️.
 
 <div align="center">
 
