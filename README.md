@@ -33,7 +33,7 @@ R Shiny Developer and Junior Data Scientist
 ### Tech Stack:
 
 <img align="left" alt="R" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />
-<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="MySQL" width="30px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="left" alt="Git" width="30px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
@@ -46,10 +46,12 @@ R Shiny Developer and Junior Data Scientist
 
 
 <br>
+<br>
 
-![Jehangeer's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=github)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=github" alt="Jehangeer's Profile Summary" />
+</div>
 
-<div align="center"> 
- 
- ### Show some ❤️ by starring some of the repositories! 
+<div align="center">
+  <b>Show some ❤️ by starring some of the repositories!</b>
 </div>
