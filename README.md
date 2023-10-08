@@ -39,8 +39,6 @@ R Shiny Developer and Junior Data Scientist
 
 
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aswanijehangeer&layout=compact)
 ![Jehangeer's Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=github)
 
 <div align="center"> 
