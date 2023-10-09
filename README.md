@@ -44,13 +44,12 @@ R Shiny Developer and Junior Data Scientist
 <br>
 
 <div align="center">
- <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=aswanijehangeer&theme=github&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="Jehangeer's Stats" />
-   <img width=""400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=github" alt="Jehangeer's Profile Summary" />
+ <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=aswanijehangeer&theme=graywhite&hide_border=true&fire=C77800&ring=DD910B&background=1F222E" alt="Jehangeer's Stats" />
+ <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=graywhite" alt="Jehangeer's Profile Summary" />
 </div>
 
-<div align="center">
-
-</div>
+<br>
+<br>
 
 <div align="center">
   <b>Show some ❤️ by starring some of the repositories!</b>
