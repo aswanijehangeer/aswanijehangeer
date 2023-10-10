@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋 This is Jehangeer :)</h1>
+<h1 align="center">Hello 👋 This is Jehangeer :)</h1>
 
 <h2 align="center"> 
 R Shiny Developer and Junior Data Scientist
