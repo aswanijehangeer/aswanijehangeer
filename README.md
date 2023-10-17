@@ -47,7 +47,7 @@ R Shiny Developer and Junior Data Scientist
 
 <div align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
-  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aswanijehangeer)
+  ![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aswanijehangeer)
  <br>
   <b>Show some ❤️ by starring some of the repositories!</b>
 </div>
