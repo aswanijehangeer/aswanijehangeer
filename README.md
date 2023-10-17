@@ -49,6 +49,7 @@ R Shiny Developer and Junior Data Scientist
   <b>Show some ❤️ by starring some of the repositories!</b>
 </div>
 
+<br>
 <div align="center">
   ![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
 </div>
