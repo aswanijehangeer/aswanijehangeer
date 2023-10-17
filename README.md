@@ -15,10 +15,6 @@ R Shiny Developer and Junior Data Scientist
   [![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
   [![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
   [![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
-
-  ![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
-  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aswanijehangeer)
-
  </div>
 
 ### Tech Stack:
@@ -50,5 +46,8 @@ R Shiny Developer and Junior Data Scientist
 <br>
 
 <div align="center">
+  ![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
+  [![Open Source Love](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/aswanijehangeer)
+ <br>
   <b>Show some ❤️ by starring some of the repositories!</b>
 </div>
