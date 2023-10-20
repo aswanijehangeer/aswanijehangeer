@@ -1,7 +1,7 @@
 <h1 align="center">Hello 🚀 This is Jehangeer :)</h1>
 
 <h2 align="center"> 
-R Shiny Developer and Junior Data Scientist
+R/Shiny Developer and Junior Data Scientist
  </h2>
 
 * Actively seeking a full-time role in RShiny, Data Science, and Web Development.
