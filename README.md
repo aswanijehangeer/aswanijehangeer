@@ -21,18 +21,18 @@ R/Shiny Developer and Junior Data Scientist
  </div>
 
 <div align="center">
-<img align="left" alt="R" width="35px" src="images/RStudio.png" />
-<img align="left" alt="RShiny" width="35px" src="images/Shiny_Logo.png" />
-<img align="left" alt="MySQL" width="35px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
-<img align="left" alt="Git" width="35px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
-<img align="left" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
-<img align="left" alt="Linux" width="35px" src="images/Linux_Logo.png" />
-<img align="left" alt="Ubuntu" width="35px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
-<img align="left" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="HTML" width="35px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
-<img align="left" alt="CSS" width="35px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
-<img align="left" alt="TailwindCSS" width="35px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
-<img align="left" alt="JavaScript" width="35px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
+<img align="center" alt="R" width="35px" src="images/RStudio.png" />
+<img align="center" alt="RShiny" width="35px" src="images/Shiny_Logo.png" />
+<img align="center" alt="MySQL" width="35px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
+<img align="center" alt="Git" width="35px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
+<img align="center" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
+<img align="center" alt="Linux" width="35px" src="images/Linux_Logo.png" />
+<img align="center" alt="Ubuntu" width="35px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
+<img align="center" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="center" alt="HTML" width="35px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
+<img align="center" alt="CSS" width="35px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
+<img align="center" alt="TailwindCSS" width="35px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
+<img align="center" alt="JavaScript" width="35px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 </div>
 
 
