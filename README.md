@@ -33,7 +33,7 @@ R/Shiny Developer and Junior Data Scientist
 <img align="left" alt="CSS" width="35px" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png"/>
 <img align="left" alt="TailwindCSS" width="35px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
 <img align="left" alt="JavaScript" width="35px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
- </div>
+</div>
 
 
 
