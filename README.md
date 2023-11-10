@@ -21,7 +21,7 @@ R/Shiny Developer and Junior Data Scientist
  </div>
 
 <div align="center">
-<img align="center" alt="R" width="35px" src="images/RStudio.png" />
+<a href="https://shiny.rstudio.com/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="40" width="52" alt="rstudio logo"  /></a>
 <img align="center" alt="RShiny" width="35px" src="images/Shiny_Logo.png" />
 <img align="center" alt="MySQL" width="35px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="center" alt="Git" width="35px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
