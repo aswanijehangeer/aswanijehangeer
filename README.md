@@ -21,12 +21,12 @@ R/Shiny Developer and Junior Data Scientist
  </div>
 
 <div align="center">
-<a href="https://shiny.rstudio.com/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="35px" alt="rstudio logo"  /></a>
-<img align="center" alt="RShiny" width="35px" src="images/Shiny_Logo.png" />
+<img align="center" alt="RShiny" width="35px" src="images/RStudio.png" />
+<img align="center" alt="RShiny" width="35px" src="images/Shiny.png" />
 <img align="center" alt="MySQL" width="35px" src="https://user-images.githubusercontent.com/25181517/183896128-ec99105a-ec1a-4d85-b08b-1aa1620b2046.png" />
 <img align="center" alt="Git" width="35px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"/>
 <img align="center" alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png"/>
-<img align="center" alt="Linux" width="35px" src="images/Linux_Logo.png" />
+<img align="center" alt="Linux" width="35px" src="images/Linux.png" />
 <img align="center" alt="Ubuntu" width="35px" src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" />
 <img align="center" alt="Terminal" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="center" alt="HTML" width="35px" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" />
