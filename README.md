@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jehangeer. 🚀 </h1>
 
 <h2 align="center"> 
-R/Shiny Developer and Junior Data Scientist
+R Shiny Developer and Junior Data Scientist
 </h2>
 
 <br>
