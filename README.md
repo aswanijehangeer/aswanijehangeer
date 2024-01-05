@@ -23,6 +23,7 @@ I’m actively seeking a full-time role in these domains and am open to projects
 [![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
 [![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
 [![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
+![](https://img.shields.io/badge/website-www.aswanijehangeer.com-blue?link=https%3A%2F%2Faswanijehangeer.com%2F)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
 
