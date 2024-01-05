@@ -1,16 +1,23 @@
-<h1 align="center">Hello, I'm Jehangeer. 🚀 </h1>
+<h1 align="center">Hi, I'm Jehangeer.</h1>
 
 <h2 align="center"> 
 R Shiny Developer and Junior Data Scientist
 </h2>
 
 <br>
+I'm a self-taught learner and Statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. I’m actively seeking a full-time role in these domains and am open to projects and collaboration.
 
-- Actively seeking a full-time role in R, Shiny, Data Analytics.
-- I offer my services as a professional freelancer (RShiny, SQL, and Data Analytics) on the Upwork platform.
-- Bachelor's degree in statistics (January 2023).
-- Currently learning Rust. 
-- Avid chess player ♟️.
+<h3>What I’m currently doing 🚀</h3>
+- Learning Rust, exploring its possibilities.
+- Building shiny apps for data exploration and visualizations.
+- Tutoring on R Shiny and freelancing on various data projects.
+- Improving my chess skills and rating. ♟️
+
+<h3>How to reach me 📫</h3>
+[Personal Website: www.aswanijehangeer.com](https://aswanijehangeer.com/)
+[Email: aswanijehangeer@gamil.com](aswanijehangeer@gmail.com)
+[LinkedIn: @aswanijehangeer](https://www.linkedin.com/in/aswanijehangeer/)
+
 
 <div align="center">
 
@@ -48,5 +55,5 @@ R Shiny Developer and Junior Data Scientist
 ---
 
 <div align="center">
-  <b>Show some ❤️ by starring some of the repositories!</b>
+  <b>Let's connect and explore opportunities together.❤️</b>
 </div>
