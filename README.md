@@ -5,9 +5,11 @@ R Shiny Developer and Junior Data Scientist
 </h2>
 
 <br>
-I'm a self-taught learner and Statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. I’m actively seeking a full-time role in these domains and am open to projects and collaboration.
+I'm a self-taught learner and Statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. <br>
+I’m actively seeking a full-time role in these domains and am open to projects and collaboration.
 
 <h3>What I’m currently doing 🚀</h3>
+
  - Learning Rust, exploring its possibilities.
  - Building shiny apps for data exploration and visualizations.
  - Tutoring on R Shiny and freelancing on various data projects.
