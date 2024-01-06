@@ -4,6 +4,18 @@
 R Shiny Developer and Junior Data Scientist
 </h2>
 
+<div align="center">
+ 
+[![](https://img.shields.io/badge/www.aswanijehangeer.com-blue?style=flat-square&logo=travis&logoColor=white&link=aswanijehangeer.com)](https://aswanijehangeer.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
+[![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
+[![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
+
+
+![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
+
+ </div>
+
 <br>
 I'm a self-taught learner and statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. 
 <br>
@@ -18,17 +30,7 @@ I’m actively seeking a full-time role in these domains and am open to projects
 
 
 
-<div align="center">
- 
-[![](https://img.shields.io/badge/www.aswanijehangeer.com-blue?style=flat-square&logo=travis&logoColor=white&link=aswanijehangeer.com)](https://aswanijehangeer.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
-[![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
-[![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
 
-
-![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
-
- </div>
 
 <div align="center">
 <img align="center" alt="RShiny" width="40px" src="images/shiny.png" />
