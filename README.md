@@ -1,36 +1,34 @@
 <h1 align="center">Hi, I'm Jehangeer.</h1>
 
 <h2 align="center"> 
-R Shiny Developer and Junior Data Scientist
+R & Shiny Developer and Junior Data Scientist
 </h2>
 
-<div align="center">
- 
-[![](https://img.shields.io/badge/www.aswanijehangeer.com-blue?style=flat-square&logo=travis&logoColor=white&link=aswanijehangeer.com)](https://aswanijehangeer.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-aswanijehangeer-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aswanijehangeer/)](https://www.linkedin.com/in/aswanijehangeer/)
-[![Twitter Badge](https://img.shields.io/badge/-@_aswanijahangir-blue?style=flat-square&labelColor=blue&logo=twitter&logoColor=white&link=https://twitter.com/_aswanijahangir)](https://twitter.com/_aswanijahangir)
-[![Gmail Badge](https://img.shields.io/badge/-aswanijehangeer@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:aswanijehangeer@gmail.com)](mailto:aswanijehangeer@gmail.com)
 
+ <div align="center">
+<a href="https://www.linkedin.com/in/spcanelon/">
+  <img alt="Silvia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+  
+<a href="https://github.com/spcanelon">
+  <img alt="Silvia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
 
-![Profile Views](https://komarev.com/ghpvc/?username=aswanijehangeer&label=PROFILE+VIEWS)
-
- </div>
+<a href="https://twitter.com/spcanelon">
+  <img alt="Silvia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+</div>
 
 <br>
-I'm a self-taught learner and statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. 
-<br>
-I’m actively seeking a full-time role in these domains and am open to projects and collaboration.
+I am a statistics graduate and self-taught learner with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. I am actively seeking a full-time role in these domains and am open to projects and collaboration.
 
-<h3>What I’m currently doing 🚀</h3>
+<h3>About me</h3>
 
- - Learning Rust, exploring its possibilities.
- - Building shiny apps for data exploration and visualizations.
- - Tutoring on R Shiny and freelancing on various data projects.
- - Improving my chess skills and rating. ♟️
-
-
-
-
+- Learning Rust, exploring its possibilities.
+- Building shiny apps for data exploration and visualizations.
+- Tutoring on R Shiny and freelancing on various data projects.
+- Improving my chess skills and rating. ♟️
+- 📫 How to reach me: Through my [personal website](https://aswanijehangeer.com/)!
 
 <div align="center">
 <img align="center" alt="RShiny" width="40px" src="images/shiny.png" />
@@ -47,15 +45,10 @@ I’m actively seeking a full-time role in these domains and am open to projects
 <img align="center" alt="JavaScript" width="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 </div>
 
-
----
-
 <div align="center">
  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=transparent" alt="Jehangeer's Profile Summary" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=aswanijehangeer&theme=transparent&hide_border=true&fire=C77800&ring=DD910B" alt="Jehangeer's Stats" />
 </div>
-
----
 
 <div align="center">
   <b>Let's connect and explore opportunities together.❤️</b>
