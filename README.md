@@ -6,16 +6,16 @@ R & Shiny Developer and Junior Data Scientist
 
 
  <div align="center">
-<a href="https://www.linkedin.com/in/spcanelon/">
-  <img alt="Silvia's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="https://www.linkedin.com/in/aswanijehangeer/">
+  <img alt="Jehangeer's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
   
-<a href="https://github.com/spcanelon">
-  <img alt="Silvia's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<a href="https://github.com/aswanijehangeer">
+  <img alt="Jehangeer's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<a href="https://twitter.com/spcanelon">
-  <img alt="Silvia's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/_aswanijahangir">
+  <img alt="Jehangeer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 </div>
 
