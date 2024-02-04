@@ -20,15 +20,17 @@ R & Shiny Developer and Junior Data Scientist
 </div>
 
 <br>
-I am a statistics graduate and self-taught learner with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. I am actively seeking a full-time role in these domains and am open to projects and collaboration.
+Statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. <br>
+Seeking a full-time role in data analytics focusing on R and Shiny development. Open to exciting projects and collaborations.
 
 <h3>About me</h3>
 
-- Learning Rust, exploring its possibilities.
-- Building shiny apps for data exploration and visualizations.
-- Tutoring on R Shiny and freelancing on various data projects.
+- Passionate about creating Shiny apps for insightful data exploration and visualizations.
+- Experienced tutor in R Shiny, helping others unlock the power of interactive data applications.
+- Freelancing on diverse data projects to broaden my expertise.
 - Improving my chess skills and rating. ♟️
-- 📫 How to reach me: Through my [personal website](https://aswanijehangeer.com/)!
+- 📫 Reach out to me through my [personal website](https://aswanijehangeer.com/) for collaboration and opportunities.
+<br>
 
 <div align="center">
 <img align="center" alt="RShiny" width="40px" src="images/shiny.png" />
