@@ -1,11 +1,11 @@
-<h1 align="center">Hi, I'm Jehangeer.</h1>
+![Tan rowing](images/cover.png)
 
-<h2 align="center"> 
-R & Shiny Developer and Junior Data Scientist
-</h2>
+## Hi, I'm Jehangeer
 
+I am a statistics graduate and a self-taught programmer who is passionate about using R and Shiny, enjoys playing chess, and loves reading books.
 
- <div align="center">
+<!-- 
+<div align="center">
 <a href="https://www.linkedin.com/in/aswanijehangeer/">
   <img alt="Jehangeer's LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -17,19 +17,18 @@ R & Shiny Developer and Junior Data Scientist
 <a href="https://twitter.com/_aswanijahangir">
   <img alt="Jehangeer's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-</div>
+</div> -->
 
-<br>
-Statistics graduate with two years of hands-on experience in R, Shiny, SQL, and Data Analytics. <br>
-Seeking a full-time role in data analytics focusing on R and Shiny development. Open to exciting projects and collaborations.
 
-<h3>About me</h3>
+## What I am up to?
 
+- Seeking a full-time role in data analytics focusing on R and Shiny development.
 - Passionate about creating Shiny apps for insightful data exploration and visualizations.
 - Experienced tutor in R Shiny, helping others unlock the power of interactive data applications.
 - Freelancing on diverse data projects to broaden my expertise.
 - Improving my chess skills and rating. ♟️
-- 📫 Reach out to me through my [personal website](https://aswanijehangeer.com/) for collaboration and opportunities.
+- 📫 Reach out to me through my [personal website](https://aswanijehangeer.com/).
+
 <br>
 
 <div align="center">
