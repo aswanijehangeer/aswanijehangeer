@@ -1,4 +1,4 @@
-![Tan rowing](images/cover.png)
+![Jehangeer](images/cover.png)
 
 ## Hi, I'm Jehangeer
 
