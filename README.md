@@ -46,6 +46,16 @@ I am a statistics graduate and a self-taught programmer who is passionate about 
 <img align="center" alt="JavaScript" width="40px" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png"/>
 </div>
 
+## Projects
+- [London Cycle Safe: A Semantic Shiny Dashboard](https://github.com/aswanijehangeer/LondonCycleSafe-A-Semantic-Shiny-Dashboard)
+- [EU Sales Explorer: Dynamic Shiny Dashboard](https://github.com/aswanijehangeer/EU-Sales-Explorer-Shiny-Dashboard)
+- [Chess Grandmasters Shiny App ♟️](https://github.com/aswanijehangeer/Chess-Grandmaster-Shiny-App)
+- [Global Cereal Harvest Insights: Shiny App](https://github.com/aswanijehangeer/Global-Cereal-Harvest-Insights-Shiny-App)
+- [Coffee Consumption Analysis: Shiny App](https://github.com/aswanijehangeer/Coffee-Consumption-Analysis-Shiny-App)
+
+## Talks
+- [Unveiling the Power of RShiny Dashboards](https://github.com/aswanijehangeer/Unveiling-the-Power-of-RShiny-Dashboards)
+
 <div align="center">
  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=transparent" alt="Jehangeer's Profile Summary" />
   <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=aswanijehangeer&theme=transparent&hide_border=true&fire=C77800&ring=DD910B" alt="Jehangeer's Stats" />
