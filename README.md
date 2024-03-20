@@ -19,9 +19,6 @@ I am a statistics graduate and a self-taught programmer who is passionate about 
 </a>
 </div> -->
 
-
-## What I am up to?
-
 - Seeking a full-time role in data analytics focusing on R and Shiny development.
 - Passionate about creating Shiny apps for insightful data exploration and visualizations.
 - Experienced tutor in R Shiny, helping others unlock the power of interactive data applications.
