@@ -24,7 +24,7 @@ I am a statistics graduate and a self-taught programmer who is passionate about 
 - Experienced tutor in R Shiny, helping others unlock the power of interactive data applications.
 - Freelancing on diverse data projects to broaden my expertise.
 - Improving my chess skills and rating. ♟️
-- 📫 Reach out to me through my [personal website](https://aswanijehangeer.com/).
+- 📫 Reach out to me through my [personal website](https://aswanijehangeer.github.io/).
 
 <br>
 
