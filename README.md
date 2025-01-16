@@ -38,7 +38,6 @@ Other than studies and work, I enjoy **playing chess** and **reading books**. In
 
 <div align="center">
  <img width="400px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aswanijehangeer&theme=transparent" alt="Jehangeer's Profile Summary" />
-  <img width="400px" src="https://github-readme-streak-stats.herokuapp.com?user=aswanijehangeer&theme=transparent&hide_border=true&fire=C77800&ring=DD910B" alt="Jehangeer's Stats" />
 </div>
 
 <div align="center">
